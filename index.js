@@ -1,5 +1,5 @@
 const express = require('express');
-const { DANFe } = require('node-sped-pdf');
+const { DANFe } = require('node-sped-pdf'); 
 
 const app = express();
 
